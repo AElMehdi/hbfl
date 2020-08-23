@@ -11,4 +11,5 @@ createImage('<instanceid>', 'hamsterImage')
 
 function createImage (seedInstanceId, imageName) {
   // TODO: Implement AMI creation
+// Starting
 }
